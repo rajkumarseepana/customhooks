@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rajkumarseepana/customhooks.git/static/css/main.15a42a0c.css",
+    "main.js": "/rajkumarseepana/customhooks.git/static/js/main.b5662254.js",
+    "static/js/453.ff3f4497.chunk.js": "/rajkumarseepana/customhooks.git/static/js/453.ff3f4497.chunk.js",
+    "index.html": "/rajkumarseepana/customhooks.git/index.html",
+    "main.15a42a0c.css.map": "/rajkumarseepana/customhooks.git/static/css/main.15a42a0c.css.map",
+    "main.b5662254.js.map": "/rajkumarseepana/customhooks.git/static/js/main.b5662254.js.map",
+    "453.ff3f4497.chunk.js.map": "/rajkumarseepana/customhooks.git/static/js/453.ff3f4497.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15a42a0c.css",
+    "static/js/main.b5662254.js"
+  ]
+}
