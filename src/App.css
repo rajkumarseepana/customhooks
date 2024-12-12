@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0; /* Optional: Adds a background color for contrast */
+  font-family: Arial, sans-serif; /* Optional: Sets a clean font */
+}
+
+div {
+  text-align: center;
+  padding: 40px;
+  background-color: white; /* Optional: Adds a background color to the content */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Adds a shadow for a subtle effect */
+  border-radius: 8px; /* Optional: Rounds the corners of the content box */
+}
